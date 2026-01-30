@@ -207,6 +207,30 @@ General purpose
   
 </details>
 
+## [Agent OS](https://github.com/imran-siddique/agent-os)
+Safety-first agent development platform with VS Code extension
+
+<details>
+
+### Category
+General purpose, Build your own, Coding, Safety & Compliance
+
+### Description
+Agent OS is a visual agent development platform for building, testing, and deploying safe AI agents. It provides:
+
+- **Policy-Based Safety Controls**: Define and enforce safety policies with a visual GUI editor
+- **CMVK Multi-Model Verification**: Consensus verification using multiple LLMs (GPT-4, Claude, Gemini) before executing agent actions
+- **Compliance Frameworks**: Built-in GDPR, HIPAA, SOC2, and PCI-DSS compliance checking
+- **VS Code Extension**: Visual development environment with real-time diagnostics and one-click deployment
+- **50+ Agent Templates**: Pre-built templates for data processing, DevOps, customer support, security, and more
+- **GitHub Actions Integration**: Deploy agents directly to GitHub Actions with generated workflows
+
+### Links
+- [GitHub Repository](https://github.com/imran-siddique/agent-os)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode)
+- [Documentation](https://imran-siddique.github.io/agent-os-docs/)
+</details>
+
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
 Library/framework for building language agents
